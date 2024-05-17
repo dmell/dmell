@@ -6,9 +6,9 @@
 </p>
 
 #### `whoami`
-📍 Paris, France <br>
-💻 Currently working as a Security Researcher @ [Quarkslab](https://quarkslab.com/) (:fr:) <br>
-👨‍🎓 Graduated from a Double Master Degree in Cyber Security @ [University of Twente](https://www.utwente.nl/en/) (:netherlands:) & [University of Trento](https://www.unitn.it/en) (:it:) <br>
+📍 Zürich, Switzerland 🇨🇭 <br>
+💻 Currently working as a Software Engineer in Kernel Security @ Google <br>
+👨‍🎓 Graduated from a Double Master Degree in Cyber Security @ [University of Twente](https://www.utwente.nl/en/) (🇳🇱) & [University of Trento](https://www.unitn.it/en) (🇮🇹) <br>
 
 #### Interests
 - Systems (especially Android) security
